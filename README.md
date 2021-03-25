@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JackiDev
+- 👀 I’m interested in Coding/Developing
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: You can reach me on this email: JackiDevs@gmail.com or on Discord JackiDev#2163   The easiest way is with email
